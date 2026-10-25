@@ -1,0 +1,13 @@
+import React from 'react'
+
+const Header = ({ title }) => {
+  return (
+    <header>
+      <h1>{title}</h1>
+      <h2>To Do List</h2>
+
+    </header>
+  )
+}
+
+export default Header

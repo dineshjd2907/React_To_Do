@@ -1,0 +1,25 @@
+{
+  "todoItems": [
+    {
+      "id": "1",
+      "checked": false,
+      "work": "Learn React"
+    },
+    {
+      "id": "3",
+      "checked": false,
+      "work": "Visit Museum"
+    },
+    {
+      "id": "F69hZS4Nez0",
+      "checked": false,
+      "work": "Rides"
+    },
+    {
+      "id": "iVvUyj01Tbw",
+      "checked": false,
+      "work": "Dinesh"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
